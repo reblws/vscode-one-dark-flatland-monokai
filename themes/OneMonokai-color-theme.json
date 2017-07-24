@@ -109,7 +109,7 @@
         "variable.readwrite.other.block"
       ],
       "settings": {
-        "foreground": "#40cae4"
+        "foreground": "#66D9EF"
       }
     },
     {
@@ -141,7 +141,7 @@
       "name": "Storage type",
       "scope": "storage.type",
       "settings": {
-        "foreground": "#40cae4"
+        "foreground": "#66D9EF"
       }
     },
     {
@@ -154,6 +154,7 @@
         "support.class"
       ],
       "settings": {
+        "fontStyle": "underline",
         "foreground": "#66D9EF"
       }
     },
