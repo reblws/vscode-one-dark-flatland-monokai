@@ -1,5 +1,5 @@
 {
-    "name": "one-monokai",
+    "name": "one-monokai-flatland",
     "displayName": "One Monokai Flatland",
     "description": "One Monokai blended with Flatland colors",
     "version": "0.3.3",
@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Monokai",
+                "label": "One Monokai Flatland",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OneMonokai-color-theme.json"
             }
