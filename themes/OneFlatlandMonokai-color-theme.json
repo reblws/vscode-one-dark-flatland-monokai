@@ -37,7 +37,7 @@
       "name": "js template-expression",
       "scope": "punctuation.definition.template-expression.begin.js,punctuation.definition.template-expression.end.js,punctuation.definition.template-expression.begin.ts,punctuation.definition.template-expression.end.ts",
       "settings": {
-        "foreground": "#A6E22E"
+        "foreground": "#F92672"
       }
     },
     {

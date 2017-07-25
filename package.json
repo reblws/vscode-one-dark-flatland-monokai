@@ -1,9 +1,9 @@
 {
     "name": "one-monokai-flatland",
-    "displayName": "One Monokai Flatland",
-    "description": "One Monokai blended with Flatland colors",
-    "version": "0.3.3",
-    "publisher": "azemoh",
+    "displayName": "One Flatland Monokai",
+    "description": "Flatland Monokai syntax colors with a One Dark editor shell",
+    "version": "0.1.0",
+    "publisher": "reblws",
     "engines": {
         "vscode": "^1.13.0"
     },
@@ -16,7 +16,7 @@
             {
                 "label": "One Monokai Flatland",
                 "uiTheme": "vs-dark",
-                "path": "./themes/OneMonokai-color-theme.json"
+                "path": "./themes/OneFlatlandMonokai-color-theme.json"
             }
         ]
     },
@@ -32,8 +32,9 @@
         "Vscode",
         "Theme",
         "Onedark",
-        "Monokai"
+        "Monokai",
+        "Flatland"
     ],
-    "author": "Joshua Azemoh <joshazemoh@gmail.com> (http://azemoh.com)",
+    "author": "Enrico Baculinao <enrico.baculinao@mail.utoronto.ca>",
     "license": "MIT"
 }
