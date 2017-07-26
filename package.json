@@ -1,6 +1,6 @@
 {
-    "name": "one-monokai-flatland",
-    "displayName": "One Flatland Monokai",
+    "name": "one-dark-flatland-monokai",
+    "displayName": "One Dark Flatland Monokai",
     "description": "Flatland Monokai syntax colors with a One Dark editor shell",
     "version": "0.1.0",
     "publisher": "reblws",
@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Monokai Flatland",
+                "label": "One Dark Flatland Monokai",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OneFlatlandMonokai-color-theme.json"
             }
