@@ -22,18 +22,20 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/azemoh/vscode-one-monokai.git"
+        "url": "https://github.com/reblws/vscode-one-dark-flatland-monokai.git"
     },
     "bugs": {
-        "url": "https://github.com/azemoh/vscode-one-monokai/issues"
+        "url": "https://github.com/reblws/vscode-one-dark-flatland-monokai/issues"
     },
-    "homepage": "https://github.com/azemoh/vscode-one-monokai/blob/master/README.md",
+    "homepage": "https://github.com/reblws/vscode-one-dark-flatland-monokai/blob/master/README.md",
     "keywords": [
         "Vscode",
         "Theme",
         "Onedark",
         "Monokai",
-        "Flatland"
+        "Flatland",
+        "Flatland Monokai",
+        "Arc"
     ],
     "author": "Enrico Baculinao <enrico.baculinao@mail.utoronto.ca>",
     "license": "MIT"
